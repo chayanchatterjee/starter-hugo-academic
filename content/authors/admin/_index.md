@@ -69,5 +69,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+I am a PhD student in Physics at The University of Western Australia, working on the development of deep learning models for gravitational wave data analysis. I am interested in a wide range of topics in the field of astrophysics and cosmology and have worked in astroparticle physics for my Master's dissertation. 
+I am also passionate about science communication and public speaking. I have delivered public talks, participated in science talk shows and have written popular articles on my current field of research.
 
