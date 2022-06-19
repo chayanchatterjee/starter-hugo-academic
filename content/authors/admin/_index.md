@@ -46,7 +46,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ChayanChirps
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=3po9e8gAAAAJ&hl=en&oi=ao
   - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
