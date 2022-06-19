@@ -43,7 +43,7 @@ experience:
     date_end: ''
     description: Help organize annual ECR Workshop and Retreat
     
-    - title: Student Representative
+  - title: Student Representative
     company: Australian National Institute for Theoretical Astrophysics (ANITA)
     company_url: ''
     location: Australia
