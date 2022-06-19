@@ -2,7 +2,10 @@
 title: Deep Learning for Denoising Gravitational Waves
 summary: A deep learning model to extract binary black hole gravitational wave signals from LIGO noise.
 tags:
-  - DAE
+  - Denoising Autoencoder 
+  - Gravitational Waves
+  - Binary Black Holes
+  - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +19,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ChayanChirps
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,7 +32,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-One of the major challenges involved in gravitational wave data analysis is accurately predicting      properties of the progenitor black hole and neutron star systems from data recorded by LIGO and Virgo. The faint gravitational wave signals are obscured against the instrumental and terrestrial noise.    
+One of the major challenges involved in gravitational wave data analysis is accurately predicting properties of the progenitor black hole and neutron star systems from data recorded by LIGO and Virgo. The faint gravitational wave signals are obscured against the instrumental and terrestrial noise.    
  
 LIGO and Virgo use data analysis techniques that aim to minimise this noise with software that can ‘gate’ the data – removing parts of the data which are corrupted by sharp noise features, called ‘glitches’. They also use methods that extract the pure gravitational-wave signal from noise altogether. However, these techniques are usually slow and computationally intensive; they’re also potentially detrimental to multi-messenger astronomy efforts, since observation of electromagnetic counterparts of binary neutron star mergers—like short-gamma ray bursts—relies heavily on fast and accurate predictions of the sky direction and masses of the sources.
  
