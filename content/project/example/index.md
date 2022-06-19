@@ -1,8 +1,8 @@
 ---
-title: Machine Learning for Denoising Gravitational Waves
-summary: An example of using the in-built project page.
+title: Deep Learning for Denoising Gravitational Waves
+summary: A deep learning model to extract binary black hole gravitational wave signals from LIGO noise.
 tags:
-  - Deep Learning
+  - DAE
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -29,13 +29,18 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+One of the major challenges involved in gravitational wave data analysis is accurately predicting      properties of the progenitor black hole and neutron star systems from data recorded by LIGO and Virgo. The faint gravitational wave signals are obscured against the instrumental and terrestrial noise.    
+ 
+LIGO and Virgo use data analysis techniques that aim to minimise this noise with software that can ‘gate’ the data – removing parts of the data which are corrupted by sharp noise features, called ‘glitches’. They also use methods that extract the pure gravitational-wave signal from noise altogether. However, these techniques are usually slow and computationally intensive; they’re also potentially detrimental to multi-messenger astronomy efforts, since observation of electromagnetic counterparts of binary neutron star mergers—like short-gamma ray bursts—relies heavily on fast and accurate predictions of the sky direction and masses of the sources.
+ 
+In our recent study, we’ve developed a deep learning model that can extract pure gravitational wave signals from detector data at faster speeds, with similar accuracy to the best conventional techniques. As opposed to traditional programming, which uses a set of instructions (or code) to perform, deep learning algorithms generate predictions by identifying patterns in data. These algorithms are realised by ‘neural networks’ – models inspired by the neurons in our brain and are ‘trained’ to generate almost accurate predictions on data almost instantly.     
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The deep learning architecture we designed, called a ‘denoising autoencoder’, consists of two separate neural networks: the Encoder and the Decoder. The Encoder reduces the size of the noisy input signals and generates a compressed representation, encapsulating essential features of the pure signal. The Decoder ‘learns’ to reconstruct the pure signal from the compressed feature representation. A schematic diagram of a denoising autoencoder model is shown in Figure 1.
+ 
+For the Encoder network, we’ve included a Convolutional Neural Network (CNN) which is widely used for image classification and computer vision tasks, so it’s efficient at extracting distinctive features from data. For the Decoder network, we used a Long Short-Term Memory (LSTM) network—it learns to make future predictions from past time-series data.
+ 
+Our CNN-LSTM model architecture successfully extracts pure gravitational wave signals from detector data for all ten binary-black hole gravitational wave signals detected by LIGO-Virgo during the first and second observation runs. It’s the first deep learning-based model to obtain > 97% match between extracted signals and ‘ground truth’ signal ‘templates’ for all these detected events.  Proven to be much faster than current techniques, our model can accurately extract a single gravitational wave signal from noise in less than a milli-second (compared to a few seconds by other methods). 
+ 
+The data analysis group of OzGrav-UWA is now using our CNN-LSTM model with other deep learning models to predict important gravitational wave source parameters, like the sky direction and ‘chirp mass’. We’re also working on generalising the model to accurately extract single signals from low-mass black hole binaries and neutron star binaries.    
+ 
+Paper status: Published in [Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.064046)
