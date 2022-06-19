@@ -11,10 +11,6 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
   - icon: twitter
     icon_pack: fab
@@ -38,7 +34,7 @@ LIGO and Virgo use data analysis techniques that aim to minimise this noise with
  
 In our recent study, we’ve developed a deep learning model that can extract pure gravitational wave signals from detector data at faster speeds, with similar accuracy to the best conventional techniques. As opposed to traditional programming, which uses a set of instructions (or code) to perform, deep learning algorithms generate predictions by identifying patterns in data. These algorithms are realised by ‘neural networks’ – models inspired by the neurons in our brain and are ‘trained’ to generate almost accurate predictions on data almost instantly.     
 
-The deep learning architecture we designed, called a ‘denoising autoencoder’, consists of two separate neural networks: the Encoder and the Decoder. The Encoder reduces the size of the noisy input signals and generates a compressed representation, encapsulating essential features of the pure signal. The Decoder ‘learns’ to reconstruct the pure signal from the compressed feature representation. A schematic diagram of a denoising autoencoder model is shown in Figure 1.
+The deep learning architecture we designed, called a ‘denoising autoencoder’, consists of two separate neural networks: the Encoder and the Decoder. The Encoder reduces the size of the noisy input signals and generates a compressed representation, encapsulating essential features of the pure signal. The Decoder ‘learns’ to reconstruct the pure signal from the compressed feature representation. A schematic diagram of a denoising autoencoder model is shown in ![Figure 1](https://github.com/chayanchatterjee/starter-hugo-academic/blob/main/chayan-image-research-brief_orig.png).
  
 For the Encoder network, we’ve included a Convolutional Neural Network (CNN) which is widely used for image classification and computer vision tasks, so it’s efficient at extracting distinctive features from data. For the Decoder network, we used a Long Short-Term Memory (LSTM) network—it learns to make future predictions from past time-series data.
  
