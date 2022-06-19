@@ -26,7 +26,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
 One of the major challenges involved in gravitational wave data analysis is accurately predicting properties of the progenitor black hole and neutron star systems from data recorded by LIGO and Virgo. The faint gravitational wave signals are obscured against the instrumental and terrestrial noise.    
  
@@ -38,7 +38,8 @@ The deep learning architecture we designed, called a ‘denoising autoencoder’
  
 For the Encoder network, we’ve included a Convolutional Neural Network (CNN) which is widely used for image classification and computer vision tasks, so it’s efficient at extracting distinctive features from data. For the Decoder network, we used a Long Short-Term Memory (LSTM) network—it learns to make future predictions from past time-series data.
  
-Our CNN-LSTM model architecture successfully extracts pure gravitational wave signals from detector data for all ten binary-black hole gravitational wave signals detected by LIGO-Virgo during the first and second observation runs (Figure 2). ![Figure 2](image/Example_test_weighted_1.png) *Fig 1: A denoising autoencoder consists of an encoder and decoder that takes corrupted input data and retrieves the original data from it.* 
+Our CNN-LSTM model architecture successfully extracts pure gravitational wave signals from detector data for all ten binary-black hole gravitational wave signals detected by LIGO-Virgo during the first and second observation runs (Figure 2). ![Figure 2](image/Example_test_weighted_1.png)*Fig 2: The performance of our model on 10 real binary black hole events from LIGO's first and second observation run is shown. The overlaps indicate how closely the extracted waveforms match with the original signal templates, with overlap of 1 indicating exact match.* 
+
 It’s the first deep learning-based model to obtain > 97% match between extracted signals and ‘ground truth’ signal ‘templates’ for all these detected events.  Proven to be much faster than current techniques, our model can accurately extract a single gravitational wave signal from noise in less than a milli-second (compared to a few seconds by other methods).
 
 We are now using our CNN-LSTM model with other deep learning models to predict important gravitational wave source parameters, like the sky direction and ‘chirp mass’. We’re also working on generalising the model to accurately extract single signals from low-mass black hole binaries and neutron star binaries.    
