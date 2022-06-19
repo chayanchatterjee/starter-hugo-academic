@@ -25,7 +25,6 @@ experience:
   - title: Unit Facilitator (Physics)
     company: The University of Western Australia
     company_url: ''
-    company_logo: uwa
     location: Western Australia, Australia
     date_start: '2020-02-11'
     date_end: ''
@@ -39,7 +38,6 @@ experience:
   - title: Student Representative (Early Career Researcher Committee)
     company: OzGrav (UWA)
     company_url: ''
-    company_logo: ozgrav
     location: Western Australia, Australia
     date_start: '2021-01-01'
     date_end: ''
@@ -48,7 +46,6 @@ experience:
     - title: Student Representative
     company: Australian National Institute for Theoretical Astrophysics (ANITA)
     company_url: ''
-    company_logo: asa
     location: Australia
     date_start: '2022-01-01'
     date_end: ''
@@ -57,7 +54,6 @@ experience:
   - title: Research Representative (Engineering and Mathematical Sciences)
     company: Postgraduate Student Association (UWA)
     company_url: ''
-    company_logo: psa
     location: Western Australia, Australia
     date_start: '2021-02-01'
     date_end: '2022-02-01'
