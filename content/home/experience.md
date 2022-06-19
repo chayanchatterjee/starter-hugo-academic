@@ -26,24 +26,47 @@ experience:
     company: The University of Western Australia
     company_url: ''
     company_logo: uwa
-    location: California
-    date_start: '2021-01-01'
+    location: Western Australia, Australia
+    date_start: '2020-02-11'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Conduting tutorial classes
+        * Grading assignments
+        * Supervision during field trips
+        
+  - title: Student Representative (Early Career Researcher Committee)
+    company: OzGrav (UWA)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ozgrav
+    location: Western Australia, Australia
+    date_start: '2021-01-01'
+    date_end: ''
+    description: Help organize annual ECR Workshop and Retreat
+    
+    - title: Student Representative
+    company: Australian National Institute for Theoretical Astrophysics (ANITA)
+    company_url: ''
+    company_logo: asa
+    location: Australia
+    date_start: '2022-01-01'
+    date_end: ''
+    description: Help organize annual ANITA conference
+
+  - title: Research Representative (Engineering and Mathematical Sciences)
+    company: Postgraduate Student Association (UWA)
+    company_url: ''
+    company_logo: psa
+    location: Western Australia, Australia
+    date_start: '2021-02-01'
+    date_end: '2022-02-01'
+    description: |2-
+        Responsibilities included:
+        
+        * Help organize PSA Research Week Workshop and Conference
+        * Help organize academic, social and cultural events for postgraduate students
+        * Liase with university authorities to imporve overall postgraduate student research experience
 
 design:
   columns: '2'
