@@ -16,8 +16,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/ChayanChirps
-url_code: ''
-url_pdf: ''
+url_code: https://github.com/chayanchatterjee/GW-Denoiser
+url_pdf: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.064046
 url_slides: ''
 url_video: ''
 
