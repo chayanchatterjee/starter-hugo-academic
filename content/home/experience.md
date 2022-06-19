@@ -25,7 +25,7 @@ experience:
   - title: Unit Facilitator (Physics)
     company: The University of Western Australia
     company_url: ''
-    company_logo: org-gc
+    company_logo: uwa
     location: California
     date_start: '2021-01-01'
     date_end: ''
