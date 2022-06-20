@@ -1,5 +1,5 @@
 ---
-title: Curiosity Killed the Rat [Click here to listen!]
+title: Curiosity Killed the Rat
 
 event: Pint of Science Special on Gravitational Waves (ft. Chayan Chatterjee)
 event_url: 'https://open.spotify.com/episode/3lbmAXE6LBCODK0kFqXSbz'
@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: A fun chat with Kate and Matt Huckstep, hosts of Curiosity Killed the Rat podcast, on gravitational wave astronomy.
-abstract: 'A fun chat with Kate and Matt Huckstep, hosts of Curiosity Killed the Rat podcast, on gravitational wave astronomy.'
+abstract: 'Click on Video to listen to the podcast on Spotify!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
