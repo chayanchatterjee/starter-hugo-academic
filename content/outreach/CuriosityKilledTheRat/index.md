@@ -1,7 +1,7 @@
 ---
-title: Curiosity Killed the Rat (podcast) [Invited Guest]
+title: Curiosity Killed the Rat [Invited Guest]
 
-event: Pint of Science Special "Gravitational Waves" (ft. Chayan Chatterjee)
+event: Pint of Science Special Gravitational Waves (ft. Chayan Chatterjee)
 event_url: ''
 
 location: Online
