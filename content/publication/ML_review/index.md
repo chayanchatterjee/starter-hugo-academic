@@ -7,10 +7,8 @@ title: 'Enhancing Gravitational Wave Science with Machine Learning'
 authors:
   - Elena Cuoco
   - Jade Powell
-  - Marco Cavaglià
   - Kendall Ackley 
-  - Michał Bejger
-  - admin
+  -  admin
   -  Michael Coughlin 
   -  Scott Coughlin 
   -  Paul Easter 
@@ -18,15 +16,11 @@ authors:
   -  Hunter Gabbard 
   -  Timothy Gebhard 
   -  Shaon Ghosh 
-  -  Leïla Haegel 
   -  Alberto Iess
-  -  David Keitel 
-  -  Zsuzsa Márka 
-  -  Szabolcs Márka 
+  -  David Keitel  
   -  Filip Morawski 
   -  Tri Nguyen 
   -  Rich Ormiston
-  -  Michael Pürrer
   -  Massimiliano Razzano 
   -  Kai Staats
   -  Gabriele Vajente 
