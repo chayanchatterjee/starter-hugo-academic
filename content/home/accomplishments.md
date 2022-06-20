@@ -53,16 +53,16 @@ item:
     description: 
     organization: Australian National Institute for Theoretical Astrophysics
     organization_url: https://anita.edu.au/
-    title: 'J-P Macquart Best Student Talk Award (Runner-Up) 2022'
-    url: ''
+    title: 'J-P Macquart Best Student Talk Award (Runner-Up) 2022 [Click to listen!]'
+    url: https://www.youtube.com/watch?v=XvGinKL7LLw&list=PLIbjICcVo2inw0RXB_7avNZP5SsR3ZsUj&index=23&t=4s
   - certificate_url: https://drive.google.com/file/d/1WNK_wlhirBFanJ9wbm2MWWte3JjOZzs7/view?usp=sharing
     date_end: ''
     date_start: '2021-02-09'
     description: 
     organization: Australian National Institute for Theoretical Astrophysics
     organization_url: https://anita.edu.au/
-    title: 'J-P Macquart Best Student Talk Award (Winner) 2021'
-    url: ''
+    title: 'J-P Macquart Best Student Talk Award (Winner) 2021 [Click to listen!]'
+    url: https://www.youtube.com/watch?v=EquuSRcSzVk&list=PLIbjICcVo2ik9A8GNsIsWw9TSM6lTzdGZ&index=24
   - certificate_url: ''
     date_end: ''
     date_start: '2021-08-01'
