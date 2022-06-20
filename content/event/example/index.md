@@ -19,7 +19,7 @@ In this talk, I give an overview of efforts conducted using deep learning algori
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-08-22T13:00:00Z'
-date_end: '2021-08-22T15:00:00Z'
+#date_end: '2021-08-22T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
