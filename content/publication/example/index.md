@@ -52,6 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: example
 url_source: ''
+url_slide: ''
 url_video: ''
 
 # Featured image
