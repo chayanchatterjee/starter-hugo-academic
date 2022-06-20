@@ -37,8 +37,8 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2021-09-16T00:00:00Z'
-doi: '10.1103/PhysRevD.104.064046'
+date: '2020-12-01T00:00:00Z'
+doi: https://doi.org/10.1088/2632-2153/abb93a
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -50,29 +50,29 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review D*
-publication_short: In *PRD*
+publication: In *Machine Learning: Science and Technology*
+publication_short: In *MLST*
 
-abstract: Accurate extractions of the detected gravitational wave (GW) signal waveforms are essential to validate a detection and to probe the astrophysics behind the sources producing the GWs. This however could be difficult in realistic scenarios where the signals detected by existing GW detectors could be contaminated with nonstationary and non-Gaussian noise. While the performance of existing waveform extraction methods are optimal, they are not fast enough for online application, which is important for multimessenger astronomy. In this paper, we demonstrate that a deep learning architecture consisting of convolutional neural network and bidirectional long short-term memory components can be used to extract binary black hole (BBH) GW waveforms from realistic noise in a few milliseconds. We have tested our network systematically on injected GW signals, with component masses uniformly distributed in the range of 10 to 80 solar mass, on Gaussian noise and Laser Interferometer Gravitational Wave Observatory (LIGO) detector noise. We find that our model can extract GW waveforms with overlaps of more than 0.95 with pure numerical relativity templates for signals with signal-to-noise ratio greater than six and is also robust against interfering “glitches”. We then apply our model to all ten detected BBH events from LIGO-Virgo’s first (O1) and second (O2) observation runs, obtaining ≥ 0.97 overlaps for all ten extracted BBH waveforms with the corresponding pure templates. We discuss the implication of our result and its future applications to GW localization and mass estimation.
+abstract: Machine learning has emerged as a popular and powerful approach for solving problems in astrophysics. We review applications of machine learning techniques for the analysis of ground-based gravitational-wave (GW) detector data. Examples include techniques for improving the sensitivity of Advanced Laser Interferometer GW Observatory and Advanced Virgo GW searches, methods for fast measurements of the astrophysical parameters of GW sources, and algorithms for reduction and characterization of non-astrophysical detector noise. These applications demonstrate how machine learning techniques may be harnessed to enhance the science that is possible with current and future GW detectors.
 
 # Summary. An optional shortened abstract.
-summary: We demonstrate that a denoising autencoder model, consisting of a CNN encoder and a LSTM decoder can be used to extract binary black hole gravitational wave signals from Gaussian and real LIGO noise with high fidelity.
+summary:
 
-tags: [Denoising Autoencoder, Deep Learning, Gravitational Waves] 
+tags: [Gravitational Waves, Machine Learning] 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.064046p
+url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/abb93a
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: example
+url_project: ''
 url_source: ''
 url_slides: ''
 url_video: ''
@@ -89,8 +89,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
