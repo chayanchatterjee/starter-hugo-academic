@@ -1,7 +1,7 @@
 ---
 title: Astrophiz
 
-event: Astrophiz122: Chayan Chatterjee – Gravitational Wave AI Detective.
+event: Chayan Chatterjee – Gravitational Wave AI Detective.
 event_url: 'https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/'
 
 location: Online
