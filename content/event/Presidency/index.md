@@ -4,7 +4,7 @@ title: How do we Detect and Localize Gravitational Waves in Real Time? [Invited 
 event: Invited Talk at Presidency University, Kolkata
 event_url: ''
 
-location: Online
+location: Presidency University, India
 address:
   street: 
   city: 
