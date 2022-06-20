@@ -34,7 +34,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2020-09-01'
-    description: Three Minute Thesis is an annual global competition in which PhD students from across all disciplines present their research to a general audience in three minutes (Please click on the link to listen!).
+    description: Three Minute Thesis is an annual global competition in which PhD students from across all disciplines present their research to a general audience in three minutes.
     organization: The University of Western Australia
     organization_url: https://www.uwa.edu.au/
     title: UWA Three Minute Thesis 2020 Winner and People's Choice Award Winner 2020
@@ -47,21 +47,21 @@ item:
     organization_url: https://amsi.org.au/
     title: 'Best Student Talk Award at AMSI Summer School 2022'
     url: ''
-    - certificate_url: https://drive.google.com/file/d/108pOcuu0jR5Pi7AtvdezORog6Sn50HAu/view?usp=sharing
+  - certificate_url: https://drive.google.com/file/d/108pOcuu0jR5Pi7AtvdezORog6Sn50HAu/view?usp=sharing
     date_end: ''
     date_start: '2022-02-09'
     description: 
     organization: Australian National Institute for Theoretical Astrophysics
     organization_url: https://anita.edu.au/
-    title: 'J-P Macquart Best Student Talk Award (Runner-Up) 2022 '
+    title: 'J-P Macquart Best Student Talk Award (Runner-Up) 2022'
     url: ''
-    - certificate_url: https://drive.google.com/file/d/1WNK_wlhirBFanJ9wbm2MWWte3JjOZzs7/view?usp=sharing
+  - certificate_url: https://drive.google.com/file/d/1WNK_wlhirBFanJ9wbm2MWWte3JjOZzs7/view?usp=sharing
     date_end: ''
     date_start: '2021-02-09'
     description: 
     organization: Australian National Institute for Theoretical Astrophysics
     organization_url: https://anita.edu.au/
-    title: 'J-P Macquart Best Student Talk Award (Winner) 2021 '
+    title: 'J-P Macquart Best Student Talk Award (Winner) 2021'
     url: ''
 
 design:
