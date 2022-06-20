@@ -1,7 +1,7 @@
 ---
 title: Curiosity Killed the Rat [Invited Guest]
 
-event: Pint of Science Special Gravitational Waves (ft. Chayan Chatterjee)
+event: Pint of Science Special Gravitational Waves ft. Chayan Chatterjee
 event_url: ''
 
 location: Online
@@ -58,4 +58,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects = []
 ---
-
