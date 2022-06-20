@@ -1,7 +1,7 @@
 ---
-title: Astrophiz
+title: Astrophiz: An Astronomy Podcast
 
-event: Pint of Science Special on Gravitational Waves (ft. Chayan Chatterjee)
+event: Astrophiz122: Chayan Chatterjee – Gravitational Wave AI Detective.
 event_url: 'https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/'
 
 location: Online
@@ -12,12 +12,12 @@ address:
   postcode: 
   country: 
 
-summary: A fun chat with Kate and Matt Huckstep, hosts of Curiosity Killed the Rat podcast, on gravitational wave astronomy.
+summary: A great interview with Brendan O'Brien, host of Astrophiz, on gravitational wave localization, astronomy and life as a PhD student in Australia.
 abstract: 'Click on Video to listen to the podcast on Spotify!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01T13:00:00Z'
+date: '2021-03-12T13:00:00Z'
 #date_end: '2021-08-22T15:00:00Z'
 all_day: false
 
