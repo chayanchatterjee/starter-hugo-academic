@@ -1,5 +1,5 @@
 ---
-title: Astrophiz: An Astronomy Podcast
+title: Astrophiz
 
 event: Gravitational Wave AI Detective (ft. Chayan Chatterjee)
 event_url: https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/
