@@ -18,7 +18,7 @@ links:
     url: https://twitter.com/ChayanChirps
 url_code: https://github.com/chayanchatterjee/GW-Denoiser
 url_pdf: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.064046
-url_slides: ''
+#url_slides: ''
 url_video: ''
 
 # Slides (optional).
