@@ -63,6 +63,14 @@ item:
     organization_url: https://anita.edu.au/
     title: 'J-P Macquart Best Student Talk Award (Winner) 2021'
     url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2021-08-01'
+    description: FameLab is an international science communication contest in which participants deliver a three minute talk on their research or chosen subject, in a manner which is accessible to a general audience. 
+    organization: FameLab
+    organization_url: https://www.famelab.ch/
+    title: 'FameLab Western Australia Finalist (2021)'
+    url: https://www.youtube.com/watch?v=613C8F0Hy2E
 
 design:
   columns: '2'
