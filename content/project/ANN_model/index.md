@@ -1,6 +1,6 @@
 ---
 title: Using Deep Learning to Localize Gravitational Waves 
-summary: A deep learning model to extract binary black hole gravitational wave signals from LIGO noise.
+summary: Deep learning-based classification model to localize gravitational wave sources to a sector in the sky
 tags:
   - Denoising Autoencoder 
   - Gravitational Waves
