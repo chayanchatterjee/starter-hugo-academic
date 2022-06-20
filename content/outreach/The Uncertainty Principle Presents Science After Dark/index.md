@@ -1,8 +1,8 @@
 ---
-title: Curiosity Killed the Rat
+title: The Uncertainty Principle Presents Science After Dark
 
-event: Pint of Science Special on Gravitational Waves (ft. Chayan Chatterjee)
-event_url: 'https://open.spotify.com/episode/3lbmAXE6LBCODK0kFqXSbz'
+event: Perth Fringe Festival 2021
+event_url: 'https://fringeworld.com.au/fringefeed/critic_reviews?event=the-uncertainty-principle-presents-science-after-dark-fw2021'
 
 location: Online
 address:
@@ -12,12 +12,12 @@ address:
   postcode: 
   country: 
 
-summary: A fun chat with Kate and Matt Huckstep, hosts of Curiosity Killed the Rat podcast, on gravitational wave astronomy.
+summary: An exciting and laughter filled science comedy show, part of the Perth Fringe Festival 2021, in which I was one of the special guests on the opening night.
 abstract: 'Click on Video to listen to the podcast on Spotify!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01T13:00:00Z'
+date: '2021-01-24T13:00:00Z'
 #date_end: '2021-08-22T15:00:00Z'
 all_day: false
 
@@ -42,7 +42,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://open.spotify.com/episode/3lbmAXE6LBCODK0kFqXSbz'
+url_video: 'https://fringeworld.com.au/fringefeed/critic_reviews?event=the-uncertainty-principle-presents-science-after-dark-fw2021'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
