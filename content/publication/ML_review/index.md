@@ -1,5 +1,5 @@
 ---
-title: 'Extraction of binary black hole gravitational wave signals from detector data using deep learning'
+title: 'Enhancing Gravitational Wave Science with Machine Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
