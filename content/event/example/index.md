@@ -32,7 +32,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Workflow of deep learning models for waveform extraction and sky localization'
   focal_point: Right
 
 links:
