@@ -5,26 +5,11 @@ title: 'Enhancing Gravitational Wave Science with Machine Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  -  Elena Cuoco
-  -  Jade Powell
-  -  Kendall Ackley 
-  -  admin
-  -  Michael Coughlin 
-  -  Scott Coughlin 
-  -  Paul Easter 
-  -  Reed Essick 
-  -  Hunter Gabbard 
-  -  Timothy Gebhard 
-  -  Shaon Ghosh 
-  -  Alberto Iess
-  -  David Keitel  
-  -  Filip Morawski 
-  -  Tri Nguyen 
-  -  Rich Ormiston
-  -  Massimiliano Razzano 
-  -  Kai Staats
-  -  Gabriele Vajente 
-  -  Daniel Williams
+  - Alistair McLeod
+  - Daniel Jacobs
+  - admin
+  - Linqing Wen
+  - Fiona Panther
 
 # Author notes (optional)
 #author_notes:
