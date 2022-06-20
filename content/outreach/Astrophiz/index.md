@@ -1,7 +1,7 @@
 ---
 title: Astrophiz
 
-event: Gravitational Wave AI Detective (ft. Chayan Chatterjee)
+event: Gravitational Wave AI Detective
 event_url: 'https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/'
 
 location: Online
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: A great interview with Brendan O'Brien host Astrophiz: An Astronomy Podcast, on gravitational wave localization, astronomy and PhD life in general.
+summary: A great interview with Brendan O'Brien, host of Astrophiz: An Astronomy Podcast, on gravitational wave localization, astronomy and PhD life in general.
 abstract: 'Click on Video to listen to the podcast!'
 
 # Talk start and end times.
