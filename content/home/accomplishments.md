@@ -37,7 +37,7 @@ item:
     description: Three Minute Thesis is an annual global competition in which PhD students from across all disciplines present their research to a general audience in three minutes.
     organization: The University of Western Australia
     organization_url: https://www.uwa.edu.au/
-    title: UWA Three Minute Thesis 2020 Winner and People's Choice Award Winner 2020
+    title: UWA Three Minute Thesis 2020 Winner and People's Choice Award Winner 2020 [Click to listen!]
     url: https://www.youtube.com/watch?v=dFntWH1XwGQ
   - certificate_url: https://drive.google.com/file/d/1pgpDs6d7bLlnre99Mqzwzb6sG4Z7Hol1/view?usp=sharing
     date_end: ''
@@ -69,7 +69,7 @@ item:
     description: FameLab is an international science communication contest in which participants deliver a three minute talk on their research or chosen subject, in a manner which is accessible to a general audience. 
     organization: FameLab
     organization_url: https://www.famelab.ch/
-    title: 'FameLab Western Australia Finalist (2021)'
+    title: 'FameLab Western Australia Finalist (2021) [Click to listen!]'
     url: https://www.youtube.com/watch?v=613C8F0Hy2E
 
 design:
