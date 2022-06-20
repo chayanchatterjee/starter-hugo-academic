@@ -1,5 +1,5 @@
 ---
-title: 'Extraction of binary black hole gravitational wave signals from detector data using deep learning'
+title: 'Enhanching Gravitational Wave Science with Machine Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -38,7 +38,7 @@ authors:
 # - 'Equal contribution'
 
 date: '2020-12-01T00:00:00Z'
-doi: https://doi.org/10.1088/2632-2153/abb93a
+doi: '10.1088/2632-2153/abb93a'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
