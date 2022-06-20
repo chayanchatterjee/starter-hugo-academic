@@ -4,7 +4,7 @@ title: Denoising and Parameter Estimation of Gravitational Wave Events Using Dee
 event: Invited Talk at Western Sydney University
 event_url: ''
 
-location: Online
+location: Western Sydney University, Australia
 address:
   street: 
   city: 
