@@ -4,7 +4,7 @@ title: Parameter Estimation of Gravitational Wave Sources Using Deep Learning [I
 event: Invited Talk at University of Wisconsin Milwaukee
 event_url: ''
 
-location: Online
+location: University of Wisconsin Milwaukee, USA
 address:
   street: 
   city: 
