@@ -31,14 +31,14 @@ item:
     organization_url: https://www.uwa.edu.au/
     title: PhD scholarship
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date_start: '2020-09-01'
+    description: Three Minute Thesis is an annual global competition in which PhD students from across all disciplines present their research to a general audience in three minutes.
+    organization: The University of Western Australia
+    organization_url: https://www.uwa.edu.au/
+    title: UWA Three Minute Thesis 2020 Winner and People's Choice Award Winner
+    url: https://www.youtube.com/watch?v=dFntWH1XwGQ
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
