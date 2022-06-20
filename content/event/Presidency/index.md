@@ -1,5 +1,5 @@
 ---
-title: 'Listening to the Cosmos': How do we Detect and Localize Gravitational Waves in Real Time? [Invited Talk]
+title: Listening to the Cosmos: How do we Detect and Localize Gravitational Waves in Real Time? [Invited Talk]
 
 event: Invited Talk at Presidency University, Kolkata
 event_url: ''
