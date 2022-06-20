@@ -13,8 +13,8 @@ address:
   country: 
 
 summary: Application of deep learning algorithms for denoising binary black hole gravitational waves and estimating their source properties.
-abstract: In the era of multi-messenger astronomy, it is imperative to conduct rapid estimation of the masses and sky directions of gravitational wave sources for prompt electromagnetic follow-up observations. However, currently used Bayesian parameter estimation techniques by the LIGO-Virgo collaboration are not fast enough to enable detections of electromagnetic signatures arising during or just after the merger of the binary system.
-In this talk, I give an overview of efforts conducted using deep learning algorithms for fast likelihood-free inference of gravitational wave source parameters at comparable accuracy to the optimal Bayesian inference results. I discuss deep learning techniques for extraction of binary black hole gravitational wave signals from noise and applications of the method for accurate sky localization and chirp mass estimation.
+abstract: 'In the era of multi-messenger astronomy, it is imperative to conduct rapid estimation of the masses and sky directions of gravitational wave sources for prompt electromagnetic follow-up observations. However, currently used Bayesian parameter estimation techniques by the LIGO-Virgo collaboration are not fast enough to enable detections of electromagnetic signatures arising during or just after the merger of the binary system.
+In this talk, I give an overview of efforts conducted using deep learning algorithms for fast likelihood-free inference of gravitational wave source parameters at comparable accuracy to the optimal Bayesian inference results. I discuss deep learning techniques for extraction of binary black hole gravitational wave signals from noise and applications of the method for accurate sky localization and chirp mass estimation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +29,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
