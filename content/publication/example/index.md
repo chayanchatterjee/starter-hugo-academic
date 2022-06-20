@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2021-09-16T00:00:00Z'
 doi: '10.1103/PhysRevD.104.064046'
 
 # Schedule page publish date (NOT publication's date).
