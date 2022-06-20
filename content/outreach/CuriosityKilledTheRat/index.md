@@ -1,5 +1,5 @@
 ---
-title: Curiosity Killed the Rat [Invited Guest]
+title: Curiosity Killed the Rat
 
 event: Pint of Science Special Gravitational Waves ft. Chayan Chatterjee
 event_url: ''
