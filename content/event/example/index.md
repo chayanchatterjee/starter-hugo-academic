@@ -1,7 +1,7 @@
 ---
 title: Denoising and Parameter Estimation of Gravitational Wave Events Using Deep Learning
 
-event: Invited Talk: Western Sydney University
+event: Invited Talk at Western Sydney University
 event_url: 
 
 location: Online
