@@ -50,7 +50,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Machine Learning: Science and Technology*
+publication: In *Machine Learning Science and Technology*
 publication_short: In *MLST*
 
 abstract: Machine learning has emerged as a popular and powerful approach for solving problems in astrophysics. We review applications of machine learning techniques for the analysis of ground-based gravitational-wave (GW) detector data. Examples include techniques for improving the sensitivity of Advanced Laser Interferometer GW Observatory and Advanced Virgo GW searches, methods for fast measurements of the astrophysical parameters of GW sources, and algorithms for reduction and characterization of non-astrophysical detector noise. These applications demonstrate how machine learning techniques may be harnessed to enhance the science that is possible with current and future GW detectors.
@@ -80,7 +80,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Performance of our denoising autoencoder model on ten real binary black hole events detected by LIGO.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
