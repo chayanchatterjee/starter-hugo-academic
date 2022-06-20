@@ -72,8 +72,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in Physics at The University of Western Australia, working on gravitational waves under Prof. Linqing Wen. My research focuses on development of machine learning models for rapid inference of black hole and neutron star properties from gravitational wave data, both before and after they collide and merge. I am currently a member of the LIGO Virgo KAGRA collaboration and OzGrav.
+I am a PhD student in Physics at The University of Western Australia, working on gravitational waves under Prof. Linqing Wen. My research focuses on the development of machine learning models for rapid inference of black hole and neutron star properties from gravitational wave data, both before and after they collide and merge. I am currently a member of the LIGO Virgo KAGRA collaboration and OzGrav.
 
-I grew up in West Bengal, India, where I studied Physics at Presidency University, Kolkata. During my Masters, I worked on impact of self-interacting dark matter on large scale structure formation. I had also done a summer research project on applications of Korteweg-De Vries equation in Cosmology.
-I am very passionate about science communication and public outreach and have delivered public talks and participated in science talk shows and podcasts. Besides Astronomy and Physics, my passions include reading, creative writing, films and travelling. 
+I grew up in West Bengal, India, where I studied Physics at Presidency University, Kolkata. During my Masters, I worked on the impact of self-interacting dark matter on large-scale structure formation. I had also done a summer research project on applications of the Korteweg-De Vries equation in Cosmology. I am very passionate about science communication and public outreach and have delivered public talks and participated in science talk shows and podcasts. Besides Astronomy and Physics, my passions include reading, creative writing, films, and traveling.
 
