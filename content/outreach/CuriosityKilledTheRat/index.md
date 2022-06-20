@@ -1,8 +1,8 @@
 ---
 title: Curiosity Killed the Rat
 
-event: Pint of Science Special Gravitational Waves ft. Chayan Chatterjee
-event_url: ''
+event: Pint of Science Special Gravitational Waves ft Chayan Chatterjee
+event_url: 'https://open.spotify.com/episode/3lbmAXE6LBCODK0kFqXSbz'
 
 location: Online
 address:
@@ -42,7 +42,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://open.spotify.com/episode/3lbmAXE6LBCODK0kFqXSbz
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
