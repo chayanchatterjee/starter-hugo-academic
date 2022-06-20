@@ -2,7 +2,7 @@
 title: Astrophiz
 
 event: Gravitational Wave AI Detective (ft. Chayan Chatterjee)
-event_url: https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/
+event_url: 'https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/'
 
 location: Online
 address:
@@ -42,7 +42,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/
+url_video: 'https://astrophiz.com/2021/03/12/astrophiz122-chayan-chatterjee-gravitational-wave-ai-detective/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
