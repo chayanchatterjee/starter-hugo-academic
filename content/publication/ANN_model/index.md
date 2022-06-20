@@ -52,7 +52,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ANN_model
-url_slides: ''
+#url_slides: ''
 url_source: ''
 url_video: ''
 
