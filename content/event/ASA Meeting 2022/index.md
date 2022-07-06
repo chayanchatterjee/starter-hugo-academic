@@ -24,7 +24,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
-tags: [Gravitational Waves, Deep Learning, Compact Binary Coalescences, Localization]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
