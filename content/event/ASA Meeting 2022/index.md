@@ -2,7 +2,7 @@
 title: Real Time Localization of Gravitational Waves From Compact Binary Coalescences Using Deep Learning [Conference Talk]
 
 event: Talk at Astronomical Society of Australia Annual General Meeting 2022, Hobart
-event_url: 'https://www.asa2022.org/'
+event_url: https://www.asa2022.org/
 
 location: University of Tasmania, Hobart, Tasmania
 address:
