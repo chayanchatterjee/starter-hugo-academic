@@ -42,7 +42,6 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: '
 url_video: https://vimeo.com/725831895/685bd8b6f7?embedded=true&source=vimeo_logo&owner=178323738
 
 # Markdown Slides (optional).
