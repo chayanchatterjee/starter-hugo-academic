@@ -59,7 +59,7 @@ To address this, we have designed ‘CBC-SkyNet’ or Compact Binary Coalescence
 Since training neural networks on short signals is easier (requires much less computational resources), we were able to obtain highly accurate sky localization of all CBC sources using a relatively simple network architecture. 
 CBC-Skynet consists of three neural networks - two identical Residual Neural Networks (ResNet) that learns features from real and imaginary parts of the complex SNR time series, and a Masked Autoregressive Flow (MAF) model, which produces the sky direction probability distribution, conditioned on features extracted by the ResNets.
 
-| ![See below](Figure_2.png) | 
+| ![See below](featured.png) | 
 |:--:| 
 | *The architecture of CBC-SkyNet. The ResNet models extract features from the SNR time series and passes them to the MAF. The MAF produces the sky direction prediction by learning the mapping between a simple Gaussian distribution into the more complex localization contours.* |
  
