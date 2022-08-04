@@ -1,5 +1,5 @@
 ---
-title: CBC-SkyNet: A deep learning model for sky localization of all CBC sources
+title: CBC-SkyNet
 subtitle: 
 
 # Summary for listings and search engines
