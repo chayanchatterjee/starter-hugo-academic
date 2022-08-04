@@ -53,7 +53,7 @@ To address this, we have designed ‘CBC-SkyNet’ or Compact Binary Coalescence
 
 | ![See below](Figure_1.png) | 
 |:--:| 
-| *Bottom panel: SNR time series corresponding to the gravitational wave signal above. Top panel: The gravitational wave detector data containing a signal (blue). The signal embedded in the data (orange). * |
+| *Bottom panel: SNR time series corresponding to the gravitational wave signal above. Top panel: The gravitational wave detector data containing a signal (blue). The signal embedded in the data (orange).* |
 
 
 Since training neural networks on short signals is easier (requires much less computational resources), we were able to obtain highly accurate sky localization of all CBC sources using a relatively simple network architecture.
