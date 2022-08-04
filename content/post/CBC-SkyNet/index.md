@@ -53,11 +53,15 @@ To address this, we have designed ‘CBC-SkyNet’ or Compact Binary Coalescence
 
 | ![See below](Figure_1.png) | 
 |:--:| 
-| *Bottom panel: SNR time series corresponding to the gravitational wave signal above. Top panel: The gravitational wave detector data containing a signal (blue). The signal embedded in the data (orange).* |
+| *Top panel: The gravitational wave detector data containing a signal (blue) and the signal embedded in the data (orange) is shown. Bottom panel: SNR time series corresponding to the gravitational wave signal above is shown.* |
 
 
 Since training neural networks on short signals is easier (requires much less computational resources), we were able to obtain highly accurate sky localization of all CBC sources using a relatively simple network architecture. 
-CBC-Skynet consists of three neural networks - two identical Residual Neural Networks (ResNet) that learns features from real and imaginary parts of the complex SNR time series, and a Masked Autoregressive Flow (MAF) model, which produces the sky direction probability distribution, conditioned on features extracted by the ResNets ![See below](Figure_1.png).
+CBC-Skynet consists of three neural networks - two identical Residual Neural Networks (ResNet) that learns features from real and imaginary parts of the complex SNR time series, and a Masked Autoregressive Flow (MAF) model, which produces the sky direction probability distribution, conditioned on features extracted by the ResNets.
+
+| ![See below](Figure_2.png) | 
+|:--:| 
+| *The architecture of CBC-SkyNet. The ResNet models extract features from the SNR time series and passes them to the MAF. The MAF produces the sky direction prediction by learning the mapping between a simple Gaussian distribution into the more complex localization contours.* |
  
 The MAF belongs to a class of deep generative models called ‘normalizing flows’. These models can transform a simple base distribution into arbitrarily complex distributions almost instantly, and have gained a lot of popularity in recent years (For a more detained discussion on normalizing flows, check out this [blog](https://lilianweng.github.io/posts/2018-10-13-flow-models/)). Our MAF implementation transforms a Gaussian distribution, into the desired sky direction distribution, given the SNR time series data. The parameters of this transformation are determined by the neural network during the training step.
 
