@@ -28,12 +28,12 @@ content:
   email: chayan.chatterjee@vanderbilt.edu
   phone: +16153978537
   address:
-    street: 2/24, Cook Street
-    city: Perth
-    region: Western Australia
-    postcode: 6009
-    country: Australia
-    country_code: AUS
+    street: 2201 West End Avenue,
+    city: Nashville
+    region: Tennessee
+    postcode: 37235
+    country: United States of America
+    country_code: US
   coordinates:
     latitude: '-31.983247'
     longitude: '115.816675'
