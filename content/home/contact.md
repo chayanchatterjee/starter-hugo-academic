@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: chayan.chatterjee@research.uwa.edu.au
-  phone: +61410824026
+  email: chayan.chatterjee@vanderbilt.edu
+  phone: +16153978537
   address:
     street: 2/24, Cook Street
     city: Perth
