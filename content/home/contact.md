@@ -28,7 +28,7 @@ content:
   email: chayan.chatterjee@vanderbilt.edu
   phone: +16153978537
   address:
-    street: 2201 West End Avenue,
+    street: 2201 West End Avenue
     city: Nashville
     region: Tennessee
     postcode: 37235
