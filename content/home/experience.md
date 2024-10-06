@@ -56,7 +56,7 @@ experience:
     company_logo: ozgrav
     location: Western Australia, Australia
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-11-31'
     description: Co-organize annual ECR Workshop and Retreat
     
   - title: Student Representative
