@@ -40,7 +40,7 @@ summary: In this work, we use a deep learning based classification model to loca
 tags: [Gravitational Waves, Deep Learning, Artificial Network, Classification] 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
