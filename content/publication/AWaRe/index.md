@@ -26,8 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review D*
-publication_short: In *PRD*
+publication: In *The Astrophysical Journal*
+publication_short: In *ApJ*
 
 abstract: Gravitational-wave signals from coalescing compact binaries in the LIGO and Virgo interferometers are primarily detected by the template-based matched filtering method. While this method is optimal for stationary and Gaussian data scenarios, its sensitivity is often affected by nonstationary noise transients in the detectors. Moreover, most of the current searches do not account for the effects of precession of black hole spins and higher-order waveform harmonics, focusing solely on the leading-order quadrupolar modes. This limitation impacts our search for interesting astrophysical sources, such as intermediate-mass black hole binaries and hierarchical mergers. Here we show, for the first time, that deep learning can be used for accurate waveform reconstruction of precessing binary black hole signals with higher-order modes. This approach can also be adapted into a rapid trigger generation algorithm to enhance online searches. Our model, tested on simulated injections in real LIGO noise from the third observing run (2019–2020) achieved a high degree of overlap with injected signals. This accuracy was consistent across a wide range of black hole masses and spin configurations chosen for this study. When applied to real gravitational-wave events, our model's reconstructions achieved between 85% and 98% overlap with those obtained by Coherent WaveBurst (unmodeled) and LALInference (modeled) analyses. These results suggest that deep learning is a potent tool for analyzing signals from a diverse catalog of compact binaries.
 # Summary. An optional shortened abstract.
