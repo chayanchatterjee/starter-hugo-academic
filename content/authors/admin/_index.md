@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Chayan Chatterjee
+title: Dr. Chayan Chatterjee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Physics
+role: AI for New Messengers Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The University of Western Australia
-    url: https://www.uwa.edu.au/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chayan Chatterjee is a PhD Candidate in Physics at The University of Westerm Australia. His research focuses on application of machine learning to study gravitational waves - tiny ripples in space-time created by colliding black holes and neutron stars. Other than all things astronomy, he is passionate about literature, films, photography and travelling.
+bio: Dr. Chayan Chatterjee is the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University. His research focuses on application of artificial intelligence to study gravitational waves - tiny ripples in space-time created by colliding black holes and neutron stars. Besides all things astronomy, he is passionate about literature, films, photography and travelling.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Physics
       institution: The University of Western Australia
-      year: 2023 (Expected)
+      year: 2023
     - course: Masters in Physics
       institution: Presidency University, Kolkata
       year: 2018
