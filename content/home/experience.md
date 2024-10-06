@@ -65,7 +65,7 @@ experience:
     company_logo: asa
     location: Australia
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2023-01-01'
     description: Co-organize annual ANITA conference
 
   - title: Research Representative (Engineering and Mathematical Sciences)
