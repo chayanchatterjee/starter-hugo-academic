@@ -28,7 +28,7 @@ experience:
     company_logo: uwa
     location: Western Australia, Australia
     date_start: '2020-02-11'
-    date_end: '2023-11-31'
+    date_end: '2023-11-30'
     description: |2-
         Responsibilities include:
         
@@ -43,7 +43,7 @@ experience:
     company_logo: ozgrav
     location: Australia
     date_start: '2023-01-01'
-    date_end: '2023-11-31'
+    date_end: '2023-11-30'
     description:|2-
         Responsibilities include:
         
@@ -56,7 +56,7 @@ experience:
     company_logo: ozgrav
     location: Western Australia, Australia
     date_start: '2021-01-01'
-    date_end: '2022-11-31'
+    date_end: '2022-11-30'
     description: Co-organize annual ECR Workshop and Retreat
     
   - title: Student Representative
