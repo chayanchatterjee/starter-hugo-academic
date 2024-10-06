@@ -39,7 +39,7 @@ summary: We demonstrate that a denoising autencoder model, consisting of a CNN e
 tags: [Denoising Autoencoder, Deep Learning, Gravitational Waves] 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
