@@ -22,20 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Unit Facilitator (Physics)
+  - title: Lecturer and Facilitator (Physics)
     company: The University of Western Australia
     company_url: ''
     company_logo: uwa
     location: Western Australia, Australia
     date_start: '2020-02-11'
-    date_end: ''
+    date_end: '2023-11-31'
     description: |2-
         Responsibilities include:
         
-        * Conduting tutorial classes
+        * Teaching Gravitational Wave Astronomy course
+        * Conduting tutorials
         * Grading assignments
         * Supervision during field trips
         
+  - title: Chair of Inference Program
+    company: OzGrav
+    company_url: ''
+    company_logo: ozgrav
+    location: Australia
+    date_start: '2023-01-01'
+    date_end: '2023-11-31'
+    description:|2-
+        Responsibilities include:
+        
+        * Facilitate research activities.
+        * Organize weekly videocons
+  
   - title: Student Representative (Early Career Researcher Committee)
     company: OzGrav (UWA)
     company_url: ''
@@ -43,7 +57,7 @@ experience:
     location: Western Australia, Australia
     date_start: '2021-01-01'
     date_end: ''
-    description: Help organize annual ECR Workshop and Retreat
+    description: Co-organize annual ECR Workshop and Retreat
     
   - title: Student Representative
     company: Australian National Institute for Theoretical Astrophysics (ANITA)
@@ -52,7 +66,7 @@ experience:
     location: Australia
     date_start: '2022-01-01'
     date_end: ''
-    description: Help organize annual ANITA conference
+    description: Co-organize annual ANITA conference
 
   - title: Research Representative (Engineering and Mathematical Sciences)
     company: Postgraduate Student Association (UWA)
@@ -64,8 +78,8 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Help organize PSA Research Week Workshop and Conference
-        * Help organize academic, social and cultural events for postgraduate students
+        * Co-organize PSA Research Week Workshop and Conference
+        * Co-organize academic, social and cultural events for postgraduate students
         * Liaise with university authorities to imporve overall postgraduate student research experience
 
 design:
