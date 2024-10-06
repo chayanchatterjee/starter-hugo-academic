@@ -44,7 +44,7 @@ experience:
     location: Australia
     date_start: '2023-01-01'
     date_end: '2023-11-01'
-    description:|2-
+    description: |2-
         Responsibilities include:
         
         * Facilitate research activities.
