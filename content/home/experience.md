@@ -57,7 +57,7 @@ experience:
     location: Western Australia, Australia
     date_start: '2021-01-01'
     date_end: '2022-11-01'
-    description: Co-organize annual ECR Workshop and Retreat
+    description:
     
   - title: Student Representative
     company: Australian National Institute for Theoretical Astrophysics (ANITA)
@@ -66,7 +66,7 @@ experience:
     location: Australia
     date_start: '2022-01-01'
     date_end: '2023-01-01'
-    description: Co-organize annual ANITA conference
+    description:
 
   - title: Research Representative (Engineering and Mathematical Sciences)
     company: Postgraduate Student Association (UWA)
