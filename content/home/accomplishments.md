@@ -43,7 +43,7 @@ item:
     date_end: ''
     date_start: '2022-02-04'
     description: 
-    organization: Australian Mathematical Sciences Institite
+    organization: Australian Mathematical Sciences Institute
     organization_url: https://amsi.org.au/
     title: 'Best Student Talk Award at AMSI Summer School 2022'
     url: ''
@@ -66,21 +66,19 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2021-08-01'
-    description: FameLab is an international science communication contest in which participants deliver a three minute talk on their research or chosen subject, in a manner which is accessible to a general audience. 
+    description: FameLab is an international science communication contest in which participants deliver a three-minute talk on their research or chosen subject in a manner accessible to a general audience. 
     organization: FameLab
     organization_url: https://www.famelab.ch/
     title: 'FameLab Western Australia Finalist (2021) [Click to listen!]'
     url: https://www.youtube.com/watch?v=613C8F0Hy2E
-
-- certificate_url: ''
+  - certificate_url: ''
     date_end: ''
     date_start: '2023-10-01'
-    description:
+    description: 
     organization: Postgraduate Student Association of The University of Western Australia
-    organization_url: 
+    organization_url: ''
     title: 'Best Talk Award (Runner Up) - UWA Research Week'
-    url:
-    
+    url: ''
   - certificate_url: ''
     date_end: '2026-12-01'
     date_start: '2023-12-01'
@@ -88,7 +86,7 @@ item:
     organization: Vanderbilt University
     organization_url: https://www.famelab.ch/
     title: 'A.I. for New Messengers Postdoctoral Fellowship'
-    url: 
+    url: ''
 
 design:
   columns: '2'
