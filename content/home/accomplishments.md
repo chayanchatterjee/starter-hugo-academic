@@ -74,7 +74,7 @@ item:
 
 - certificate_url: ''
     date_end: ''
-    date_start: ''
+    date_start: '2023-10-01'
     description:
     organization: Postgraduate Student Association of The University of Western Australia
     organization_url: 
