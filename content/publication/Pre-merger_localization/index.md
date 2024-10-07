@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.103025
+url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/accffb
 url_code: ''
 url_dataset: ''
 url_poster: ''
