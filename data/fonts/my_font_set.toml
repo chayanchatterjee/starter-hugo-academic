@@ -5,7 +5,7 @@ name = "My font"
 google_fonts = "family=Roboto:wght@400"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Roboto Slab"
 body_font = "Roboto Slab"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
