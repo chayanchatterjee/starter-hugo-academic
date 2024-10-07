@@ -66,7 +66,7 @@ image:
 #   Otherwise, set `projects: []`.
 
 projects:
-  - ANN_model
+  - AWaRe
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
