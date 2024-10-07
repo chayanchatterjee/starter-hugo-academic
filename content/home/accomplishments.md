@@ -75,11 +75,11 @@ item:
 - certificate_url: ''
     date_end: ''
     date_start: ''
-    description: 
+    description:
     organization: Postgraduate Student Association of The University of Western Australia
     organization_url: 
     title: 'Best Talk Award (Runner Up) - UWA Research Week'
-    url: https://www.youtube.com/watch?v=613C8F0Hy2E
+    url:
     
   - certificate_url: ''
     date_end: '2026-12-01'
