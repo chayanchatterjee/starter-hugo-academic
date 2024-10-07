@@ -84,9 +84,9 @@ item:
     date_start: '2023-12-01'
     description: 
     organization: Vanderbilt University
-    organization_url: https://www.famelab.ch/
+    organization_url: https://www.vanderbilt.edu/
     title: 'A.I. for New Messengers Postdoctoral Fellowship'
-    url: ''
+    url: 'https://news.vanderbilt.edu/2024/09/25/vanderbilts-ai-for-new-messengers-fellowship-drives-breakthrough-in-black-hole-detection/'
 
 design:
   columns: '2'
