@@ -37,7 +37,7 @@ experience:
         * Grading assignments
         * Supervision during field trips
         
-  - title: Chair of Inference Program
+  - title: Chair - OzGrav Inference Program
     company: OzGrav
     company_url: ''
     company_logo: ozgrav
