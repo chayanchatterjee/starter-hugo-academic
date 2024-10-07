@@ -1,6 +1,5 @@
 ---
-title: CBC-SkyNet - A Deep Learning Model for Gravitational Wave Sky Localization
-subtitle: 
+title: News article about my recent papers! 
 
 # Summary for listings and search engines
 summary: 
@@ -37,4 +36,4 @@ tags:
 categories:
   - Demo
 ---
-News article published by Vanderbilt University about my recent papers: https://news.vanderbilt.edu/2024/09/25/vanderbilts-ai-for-new-messengers-fellowship-drives-breakthrough-in-black-hole-detection/
+Vanderbilt University news article about my recent papers on gravitational wave discovery using artificial intelligence: https://news.vanderbilt.edu/2024/09/25/vanderbilts-ai-for-new-messengers-fellowship-drives-breakthrough-in-black-hole-detection/
