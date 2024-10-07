@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Reconstructions of real gravitational wave signals using AWaRe'
+  caption: 'Robustness of AWaRe reconstructions against the presence of higher-order modes in gravitational wave signals'
   focal_point: ''
   preview_only: false
 
