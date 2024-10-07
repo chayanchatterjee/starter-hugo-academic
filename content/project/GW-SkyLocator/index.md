@@ -17,7 +17,7 @@ links:
     name: Follow
     url: https://twitter.com/ChayanChirps
 url_code: https://github.com/chayanchatterjee/GW-SkyLocator
-url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad08b7, https://iopscience.iop.org/article/10.3847/1538-4357/accffb
+url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad08b7
 #url_slides: ''
 url_video: ''
 
@@ -28,7 +28,14 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-Deep learning can be used to drastically decrease the processing time of parameter estimation for coalescing binaries of compact objects including black holes and neutron stars detected in gravitational waves (GWs). As a first step, we present two neural network models trained to rapidly estimate the posterior distributions of the chirp mass and mass ratio of a detected binary black hole system from the GW strain data of LIGO Hanford and Livingston Observatories. Using these parameters the component masses can be predicted, which has implications for the prediction of the likelihood that a merger contains a neutron star. The results are compared to the 'gold standard' of parameter estimation of gravitational waves used by the LIGO-Virgo Collaboration (LVC), LALInference. Our models predict posterior distributions consistent with that from LALInference while using orders of magnitude less processing time once the models are trained. The median predictions are within the 90% credible intervals of LALInference for all predicted parameters when tested on real binary black hole events detected during the LVC's first and second observing runs. We argue that deep learning has strong potential for low-latency high-accuracy parameter estimation suitable for real-time GW search pipelines.
+GW-SkyLocator is a deep learning model designed for the rapid sky localization of gravitational wave (GW) sources from compact binary coalescences, such as binary black holes (BBH), binary neutron star (BNS) and neutron star-black hole (NSBH) mergers. These events often produce electromagnetic (EM) counterparts, making prompt localization critical for multimessenger astronomy. Traditional localization methods, which rely on Bayesian approaches, can be slow, taking anywhere from seconds to days, which poses challenges for detecting short-lived EM signals like gamma-ray bursts.
+
+GW-SkyLocator uses a neural network architecture based on normalizing flows and ResNet, trained on signal-to-noise (S/N) time series derived from matched-filtering techniques. By using the S/N time series instead of the full GW strain data, the model efficiently extracts features, allowing it to infer sky location posteriors within seconds. This approach not only enhances the speed of localization but also supports premerger localization for BNS events, providing early warnings up to a minute before the merger. The premerger capabilities open up opportunities for EM follow-up of precursor emissions, enabling astronomers to observe a broader spectrum of phenomena associated with compact binary mergers.
+
+Overall, the work showcases a significant advancement in the application of deep learning for GW astronomy, achieving rapid localization that supports both prompt and premerger observations, crucial for multimessenger studies.
  
-Paper status: Submitted
+Related publications: 
+1. [Chayan Chatterjee et al 2023 ApJ 959 42](https://iopscience.iop.org/article/10.3847/1538-4357/ad08b7)
+2. [Chayan Chatterjee and Linqing Wen 2023 ApJ 959 76](https://iopscience.iop.org/article/10.3847/1538-4357/accffb)
+   
 
