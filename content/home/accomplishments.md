@@ -71,6 +71,15 @@ item:
     organization_url: https://www.famelab.ch/
     title: 'FameLab Western Australia Finalist (2021) [Click to listen!]'
     url: https://www.youtube.com/watch?v=613C8F0Hy2E
+    
+  - certificate_url: ''
+    date_end: '2026-12-01'
+    date_start: '2023-12-01'
+    description: 
+    organization: Vanderbilt University
+    organization_url: https://www.famelab.ch/
+    title: 'A.I. for New Messengers Postdoctoral Fellowship'
+    url: 
 
 design:
   columns: '2'
