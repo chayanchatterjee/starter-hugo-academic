@@ -71,6 +71,15 @@ item:
     organization_url: https://www.famelab.ch/
     title: 'FameLab Western Australia Finalist (2021) [Click to listen!]'
     url: https://www.youtube.com/watch?v=613C8F0Hy2E
+
+- certificate_url: ''
+    date_end: ''
+    date_start: ''
+    description: 
+    organization: Postgraduate Student Association of The University of Western Australia
+    organization_url: 
+    title: 'Best Talk Award (Runner Up) - UWA Research Week'
+    url: https://www.youtube.com/watch?v=613C8F0Hy2E
     
   - certificate_url: ''
     date_end: '2026-12-01'
