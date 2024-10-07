@@ -80,7 +80,7 @@ experience:
         
         * Co-organize PSA Research Week Workshop and Conference
         * Co-organize academic, social and cultural events for postgraduate students
-        * Liaise with university authorities to imporve overall postgraduate student research experience
+        * Liaise with university authorities to improve postgraduate student experience
 
 design:
   columns: '2'
