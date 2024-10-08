@@ -14,7 +14,7 @@ organizations:
     url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Chayan Chatterjee is the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University. His research focuses on application of artificial intelligence to study gravitational waves - tiny ripples in space-time created by colliding black holes and neutron stars. Besides all things astronomy, he is passionate about literature, films, photography and travelling.
+bio: Dr. Chayan Chatterjee is the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University. His research focuses on application of machine learning to study gravitational waves - tiny ripples in space-time created by colliding black holes and neutron stars. 
 
 # Interests to show in About widget
 interests:
