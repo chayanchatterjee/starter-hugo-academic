@@ -82,7 +82,7 @@ abstract: >
 summary: >
   We introduce GW-Whisper, the first application of OpenAI's state-of-the-art audio transformer model, Whisper, for gravitational wave data analysis. We fine-tune the pre-trained Whisper encoder for two critical applications: GW signal detection and glitch classification, demonstrating the robustness and versatility of the model. This work lays the foundation of adapting Whisper into a foundational AI model for gravitational wave data analysis.
 
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -101,7 +101,7 @@ url_video: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Reconstruction of eccentric binary black hole gravitational wave signals using AWaRe"
+  caption: "Fine-tuning GW-Whisper using DoRA for signal detection and glitch classification"
   focal_point: ""
   preview_only: false
 
