@@ -41,4 +41,4 @@ Performance tests on real GW events from LIGO’s third observing run revealed G
 The study emphasizes the adaptability and scalability of GW-Whisper, positioning it as a practical tool for real-time GW data analysis in an era of increasing detection rates. This work paves the way for integrating pre-trained models into GW workflows, fostering innovation and collaboration in astrophysics. 
 
 Related papers:
-1. [Chatterjee et al 2024](https://arxiv.org/abs/2412.20789)
+1. [Chatterjee et al 2024, ArXiv](https://arxiv.org/abs/2412.20789)
