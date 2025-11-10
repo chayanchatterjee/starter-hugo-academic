@@ -73,13 +73,7 @@ url_video: ''
 
 image:
   caption: >
-    **Top:** Reconstructions of (a) Livingston and (b) Hanford data for GW231123 using AWaRe.
-    The red dashed curves show the AWaRe mean reconstructions, and the red bands indicate
-    associated reconstruction uncertainties. Reconstructions from cWB, Bilby, and BayesWave
-    are shown in green, blue, and purple, respectively. The whitened noisy strains are shown
-    in grey.  
-    **Bottom:** Residuals obtained by subtracting the AWaRe mean reconstructions from
-    the whitened strains.
+    **Top:** Reconstruction of GW231123 waveform using AWaRe. **Bottom:** Residuals obtained by subtracting the AWaRe mean reconstructions from the whitened strains.
   focal_point: ''
   preview_only: false
 
