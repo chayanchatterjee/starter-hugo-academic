@@ -62,7 +62,7 @@ tags: [Gravitational Waves, Machine Learning, GW231123, Intermediate-Mass Black 
 
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2509.09161'
+url_pdf: 'https://iopscience.iop.org/article/10.3847/2041-8213/ae1a5f'
 url_code: 'https://github.com/chayanchatterjee/GW231123-ML-DetChar'
 url_dataset: ''
 url_poster: ''
