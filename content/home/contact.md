@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: chayan.chatterjee@vanderbilt.edu
-  phone: +16153978537
   address:
     street: 2201 West End Avenue
     city: Nashville
