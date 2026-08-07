@@ -38,6 +38,10 @@ Our new Perspective in *Nature Astronomy*, [The multimessenger Universe as a tra
 
 Multimessenger astronomy is moving from rare detections toward high-volume, heterogeneous data streams that combine gravitational waves, electromagnetic radiation, neutrinos and cosmic rays. These signals are not just large datasets. They are governed by physical laws, cross-checked across independent observatories and shaped by a hierarchy of simulations with different levels of fidelity.
 
+| ![Fig. 2 from the Nature Astronomy Perspective showing the projected multimessenger astronomy data surge through 2041](fig2-mma-data-surge.png) |
+|:--:|
+| *Fig. 2: MMA's data surge through 2041. The figure shows projected cumulative spacetime volume across messenger channels and the corresponding growth in observed binary neutron star multimessenger events.* |
+
 That makes multimessenger astronomy a strong environment for building and testing scientific AI. AI systems in this domain must distinguish instrumental noise, simulation approximations and genuine physical novelty. At the same time, the scale and latency demands of future observatories mean that AI will be essential for coordinating observations, accelerating inference, classifying sources and discovering unusual events.
 
 The article grew out of discussions at the 2025 Vanderbilt workshop "Multimessenger Astronomy in the Era of Foundational AI" and lays out a roadmap for collaboration across astronomy, AI, industry and national research infrastructure.
