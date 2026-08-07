@@ -63,3 +63,7 @@ slides: ''
 ---
 
 The paper demonstrates how symbolic regression can compress flexible numerical population models into interpretable mathematical expressions. Those expressions can be differentiated exactly, compared across population features, and reused in forecasting, formation-channel studies and stochastic-background calculations.
+
+| ![Fig. 1 from the ApJ paper showing BBH merger rate as a function of redshift](featured.png) |
+|:--:|
+| *Fig. 1: BBH comoving merger rate R(z) as a function of redshift. Shaded bands show the GWTC-4 90% credible intervals, while dashed lines show the corresponding PySR symbolic-regression median fits.* |
