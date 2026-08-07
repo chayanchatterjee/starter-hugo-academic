@@ -14,13 +14,15 @@ organizations:
     url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Chayan Chatterjee is the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University. His research focuses on application of machine learning to study gravitational waves - tiny ripples in space-time created by colliding black holes and neutron stars. 
+bio: Dr. Chayan Chatterjee is the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University. His research focuses on applying machine learning, frontier AI and interpretable inference to gravitational waves and multimessenger astronomy.
 
 # Interests to show in About widget
 interests:
   - Gravitational Waves
   - Machine Learning
   - Bayesian Inference
+  - Multimessenger Astronomy
+  - Frontier AI
 
 # Education to show in About widget
 education:
@@ -72,6 +74,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University, USA, a position jointly offered by the Department of Physics and Astronomy and the Data Science Institute at Vanderbilt University. I obtained my PhD in Physics from The University of Western Australia in 2023, where I worked on developing deep learning models for rapid detection and sky localization of [gravitational wave](https://www.ligo.caltech.edu/page/what-are-gw) sources. My current research focuses on applying [large language models](https://en.wikipedia.org/wiki/Large_language_model) for gravitational wave data analysis and inference from both individual and populations of sources.
+I am the A.I. for New Messengers Postdoctoral Fellow at Vanderbilt University, USA, a position jointly offered by the Department of Physics and Astronomy and the Data Science Institute at Vanderbilt University. I obtained my PhD in Physics from The University of Western Australia in 2023, where I worked on developing deep learning models for rapid detection and sky localization of [gravitational wave](https://www.ligo.caltech.edu/page/what-are-gw) sources. My current research focuses on applying [large language models](https://en.wikipedia.org/wiki/Large_language_model), foundation models and interpretable AI methods to gravitational wave data analysis, multimessenger discovery and inference from both individual and populations of sources.
 
 I grew up in West Bengal, India, where I completed my Bachelors and Masters in Physics from Presidency University, Kolkata. During my Masters, I worked on the impact of  [self-interacting dark matter](https://arxiv.org/abs/1901.05658) on cosmological large-scale structure formation. I am passionate about science communication and public outreach, having delivered several public talks and participated in science talk shows and podcasts. In addition to my interests in astronomy and physics, I enjoy reading, creative writing, films, and traveling.
