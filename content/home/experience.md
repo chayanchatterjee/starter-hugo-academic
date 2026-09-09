@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Researcher and Guest Lecturer
+    company: Vanderbilt University
+    company_url: 'https://www.vanderbilt.edu/'
+    company_logo: vanderbilt
+    location: Nashville, TN, USA
+    date_start: '2023-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Mentoring undergraduate, master's and PhD students
+        * Guest lecturer
+        * Guest Editor, MDPI Galaxies
+
   - title: Lecturer and Facilitator (Physics)
     company: The University of Western Australia
     company_url: ''

@@ -1,0 +1,6 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vanderbilt University">
+  <rect width="256" height="256" rx="28" fill="#866D4B"/>
+  <rect x="18" y="18" width="220" height="220" rx="18" fill="#000000"/>
+  <path d="M49 47h56v16c-11 2-17 6-17 12 0 4 2 10 5 17l40 92 39-92c3-7 5-13 5-17 0-6-6-10-18-12V47h48v16c-10 3-18 13-25 30l-58 133h-18L48 93C40 76 32 66 22 63V47h27zm51 42 31 72 31-72c2-5 4-9 5-13h-72c1 4 3 8 5 13z" fill="#FFFFFF"/>
+  <path d="M62 36h132v13H62zM62 207h132v13H62z" fill="#866D4B"/>
+</svg>
