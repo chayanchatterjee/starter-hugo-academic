@@ -43,3 +43,4 @@ The study emphasizes the adaptability and scalability of GW-Whisper, positioning
 Related papers:
 1. [Chatterjee et al 2024, ArXiv](https://arxiv.org/abs/2412.20789)
 2. [Petulante, Chatterjee et al 2026, Nature Astronomy](https://www.nature.com/articles/s41550-026-02910-w)
+3. [Chatterjee et al 2026, ArXiv](https://arxiv.org/abs/2609.00339)
